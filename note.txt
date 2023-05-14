@@ -1,0 +1,71 @@
+tinyone-
+
+mustcheck screens-
+xxl-1440
+xl-1200
+lg-1024
+md-768
+sm-576
+col-320
+
+
+
+pt sans-bold reg
+
+fonts {font-family: 'PT Sans', sans-serif;}
+
+color- black-#010101
+       ash-  #898989
+     yellow- #fcdb00
+
+header------------
+
+menu-xxl/xl/lg   md        sm/col
+        22px     22px        20
+
+
+h1      32      32           25
+h2      20      20           18 
+p       16      16           16
+icon    42      42           35
+padding 100     100          60
+
+
+slider- -- - - - - -
+
+ xxl/xl/lg  md  sm/col
+
+
+ padding- 
+          xxl/xl/lg    md       sm/col
+
+header-     20px      20px  
+
+
+feature------------
+
+   xxl/xl/lg   md  sm/col
+
+pt 100       80     50
+pb 120      100     70
+
+mt 70        50     30
+
+h1 32       32      25
+p  20       20      17
+
+
+
+
+icon 45   45   35
+h2   22   22   20/18
+p    16   16   16
+
+
+
+
+
+
+
+
+
